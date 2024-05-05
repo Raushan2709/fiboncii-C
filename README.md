@@ -1,2 +1,2 @@
 # fiboncii-C
-In this program fiboncii of number..
+In this program fiboncii of number...
